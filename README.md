@@ -14,6 +14,8 @@
 
 4. Откройте http://localhost:5173 в браузере.
 
+## Демо-версия: (https://green-api-chat-henna.vercel.app)
+
 ## Как тестировать
 
 1. Войдите, используя idInstance и apiTokenInstance из личного кабинета GREEN-API.
