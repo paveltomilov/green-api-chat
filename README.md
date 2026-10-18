@@ -3,7 +3,7 @@
 ## Локальный запуск
 
 1. Клонируйте репозиторий:
-   git clone https://github.com/ВАШ_НИК/green-api-react-chat.git  
+   git clone https://github.com/paveltomilov/green-api-chat.git
    cd green-api-react-chat
 
 2. Установите зависимости:
